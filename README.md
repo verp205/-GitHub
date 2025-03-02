@@ -33,9 +33,6 @@
 * Первый пункт
 * Второй пункт
 
-
-
-
 # И это только начало!
-![image](https://github.com/user-attachments/assets/bf2bcfc5-2b71-4025-9e5b-5342698ac25a)
+
 
